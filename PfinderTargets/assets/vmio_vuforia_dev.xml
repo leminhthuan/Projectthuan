@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="P1_4" size="300.000000 241.000000" />
+    <ImageTarget name="P4_5" size="300.000000 166.431091" />
+    <ImageTarget name="P4_4" size="300.000000 182.795700" />
+    <ImageTarget name="P4_3" size="300.000000 304.545441" />
+    <ImageTarget name="P4_2" size="300.000000 159.409592" />
+    <ImageTarget name="P4_1" size="300.000000 166.431091" />
+    <ImageTarget name="P3_5" size="300.000000 394.117645" />
+    <ImageTarget name="P3_4" size="300.000000 168.000000" />
+    <ImageTarget name="P3_3" size="300.000000 117.000000" />
+    <ImageTarget name="P3_2" size="300.000000 1363.636353" />
+    <ImageTarget name="P3_1" size="300.000000 101.000000" />
+    <ImageTarget name="P2_5" size="300.000000 254.000000" />
+    <ImageTarget name="P2_4" size="300.000000 511.363647" />
+    <ImageTarget name="P2_3" size="300.000000 344.827576" />
+    <ImageTarget name="P2_2" size="300.000000 95.000000" />
+    <ImageTarget name="P2_1" size="300.000000 300.000000" />
+    <ImageTarget name="P1_5" size="300.000000 257.000000" />
+    <ImageTarget name="P1_3" size="300.000000 179.000000" />
+    <ImageTarget name="P1_2" size="300.000000 291.000000" />
+    <ImageTarget name="P1_1" size="300.000000 324.909760" />
+  </Tracking>
+</QCARConfig>
